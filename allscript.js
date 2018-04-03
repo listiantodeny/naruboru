@@ -4,8 +4,8 @@ var NO_IMAGE = "https://2.bp.blogspot.com/-ypDvh29D4sk/Wgi_mgB1aqI/AAAAAAACcM/pv
 var WIDGET_RECENT_POST_NUM = 4; // tampilkan jumlah hasil - widget posting terbaru
 var WIDGET_RANDOM_POST_NUM = 4; // tampilkan jumlah hasil - posting acak widget
 var WIDGET_RECENT_COMMENT_NUM = 4; // tampilkan jumlah hasil - widget komentar terbaru
-var POSTPERPAGE_NUM = 7; // jumlah posting per halaman
-var LABEL_SEARCH_NUM = 7; // jumlah pencarian label posting
+var POSTPERPAGE_NUM = 8; // jumlah posting per halaman
+var LABEL_SEARCH_NUM = 8; // jumlah pencarian label posting
 // Acara hover JQuery 
 (function (c) {c.fn.hoverTimeout = function (d, e, f, g) {return this.each (function () {var a = null, b = c (ini); b.hover (fungsi ( ) {clearTimeout (a); a = setTimeout (function () {e.call (b)}, d)}, function () {clearTimeout (a); a = setTimeout (function () {g.call (b) }, f)})})}}) (jQuery);
 // jquery replacetext
